@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <RootNamespace>AlibreXMultiTargetTemplateVb</RootNamespace>
-    <TargetFrameworks>net481;net8.0</TargetFrameworks>
+    <TargetFrameworks>net481;net8.0;net9.0</TargetFrameworks>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net481|AnyCPU'">
